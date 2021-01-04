@@ -25,7 +25,7 @@
 **Thoughts**: The integration really seems complicated since it's my first time, but I am confident of getting this done soon. Also, apart from this Woocommerce project, starting learning Python for Data Science on FCC.
 
 
-### Day 3: 04 January, 2021
+### Day 4: 04 January, 2021
 **Today's Progress**: Officially kicking off Python for Data Science on FCC today. Devotted 2 hours today learning the fundamental concepts of Python.
 
 **Thoughts**: It feels great to refresh Python and I am excited about what's to come next :)
