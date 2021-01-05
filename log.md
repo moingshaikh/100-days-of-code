@@ -29,3 +29,10 @@
 **Today's Progress**: Officially kicking off Python for Data Science on FCC today. Devotted 2 hours today learning the fundamental concepts of Python.
 
 **Thoughts**: It feels great to refresh Python and I am excited about what's to come next :)
+
+### Day 5: 05 January, 2021
+**Today's Progress**: Started Scientific Computing with Python Certification - First 7 Chapters of Python for Everybody.
+- Also learned about SSL/TLS encryption, how to obtain and install SSL certificates for websites.
+- Explored two Certificate Authority (CA): Let's Encrypt and CloudFare.
+
+**Thoughts**: Great to start practically learning Python modules and about SSL issuing authority (CA) and tools such as Certbot.
