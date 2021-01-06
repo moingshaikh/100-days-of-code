@@ -36,3 +36,8 @@
 - Explored two Certificate Authority (CA): Let's Encrypt and CloudFare.
 
 **Thoughts**: Great to start practically learning Python modules and about SSL issuing authority (CA) and tools such as Certbot.
+
+### Day 6: 06 January, 2021
+**Today's Progress**: Learned about Hardware architecture, variables, expression, and satements in Python.
+
+**Thoughts**: Slowly but steadily getting started with the Python language.
