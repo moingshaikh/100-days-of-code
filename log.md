@@ -41,3 +41,8 @@
 **Today's Progress**: Learned about Hardware architecture, variables, expression, and satements in Python.
 
 **Thoughts**: Slowly but steadily getting started with the Python language.
+
+### Day 7: 07 January, 2021
+**Today's Progress**: Today, took a re-freshed, updated Design Thinking module on GitHub Lab to learn about latest Design Thinking lessons.
+
+**Thoughts**: Have been practicing Design Thinking for years, but every time I refer to some course and study materials around DT, I find something new, something amazing about user reserach, ideation, MVP, and everything in between!  
