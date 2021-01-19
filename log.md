@@ -45,4 +45,9 @@
 ### Day 7: 07 January, 2021
 **Today's Progress**: Today, took a re-freshed, updated Design Thinking module on GitHub Lab to learn about latest Design Thinking lessons.
 
-**Thoughts**: Have been practicing Design Thinking for years, but every time I refer to some course and study materials around DT, I find something new, something amazing about user reserach, ideation, MVP, and everything in between!  
+**Thoughts**: Have been practicing Design Thinking for years, but every time I refer to some course and study materials around DT, I find something new, something amazing about user reserach, ideation, MVP, and everything in between! 
+
+### Day 8: 08 January, 2021
+** Took the course Introduction to JavaScript
+
+**Thoughts**: Today, retook the Intro. to JavaScript on FCC website. 
