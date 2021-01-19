@@ -58,4 +58,13 @@
 ### Day 10: 10 January, 2021
 **Today's Progress**: Referred some basic concepts including commeting, variable declaration, and storing values in variables etc. in JS.
 
+### Day 11: 11 January, 2021
+**Today's Progress**: Learned about:
+
+- Assigning the Value of One Variable to Another
+- Initializing Variables with the Assignment Operator
+- Understanding Uninitialized Variables
+- Understanding Case Sensitivity in Variables
+- 
+
 
