@@ -85,3 +85,9 @@
 - Finding a Remainder in JavaScript
 - Compound Assignment With Augmented Addition
  
+ ### Day 14: 14 January, 2021
+**Today's Progress**: Learned about assignment operators:
+
+- Compound Assignment With Augmented Subtraction
+- Compound Assignment With Augmented Multiplication
+- Compound Assignment With Augmented Division
