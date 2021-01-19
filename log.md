@@ -139,12 +139,4 @@
 - Global Scope and Functions
 - Local Scope and Functions
 - Global vs. Local Scope in Functions
-=======
-**Today's Progress**: Learned about assignment operators:
 
-- Declare String Variables
-- Escaping Literal Quotes in Strings
-- Quoting Strings with Single Quotes
-- Escape Sequences in Strings
-- Concatenating Strings with Plus Operator
->>>>>>> 3ef139ed0387e4d1abd0523aad9f9cc9937844f0
