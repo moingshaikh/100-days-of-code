@@ -55,4 +55,7 @@
 ### Day 9: 09 January, 2021
 **Today's Progress**: Begun with JavaScript concepts and theory.
 
+### Day 10: 10 January, 2021
+**Today's Progress**: Referred some basic concepts including commeting, variable declaration, and storing values in variables etc. in JS.
+
 
