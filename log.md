@@ -48,6 +48,11 @@
 **Thoughts**: Have been practicing Design Thinking for years, but every time I refer to some course and study materials around DT, I find something new, something amazing about user reserach, ideation, MVP, and everything in between! 
 
 ### Day 8: 08 January, 2021
-** Took the course Introduction to JavaScript
+**Today's Progress**: Started the  Introduction to JavaScript course.
 
 **Thoughts**: Today, retook the Intro. to JavaScript on FCC website. 
+
+### Day 9: 09 January, 2021
+**Today's Progress**: Begun with JavaScript concepts and theory.
+
+
