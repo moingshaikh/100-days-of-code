@@ -65,6 +65,23 @@
 - Initializing Variables with the Assignment Operator
 - Understanding Uninitialized Variables
 - Understanding Case Sensitivity in Variables
-- 
 
+### Day 12: 12 January, 2021
+**Today's Progress**: Learned about:
 
+- Add Two Numbers with JavaScript
+- Subtract One Number from Another with JavaScript
+- Multiply Two Numbers with JavaScript
+- Divide One Number by Another with JavaScript
+- Increment a Number with JavaScript
+- Decrement a Number with JavaScript
+- Create Decimal Numbers with JavaScript
+
+### Day 13: 13 January, 2021
+**Today's Progress**: Learned about:
+
+- Multiply Two Decimals with JavaScript
+- Divide One Decimal by Another with JavaScript
+- Finding a Remainder in JavaScript
+- Compound Assignment With Augmented Addition
+ 
