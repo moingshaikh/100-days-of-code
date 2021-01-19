@@ -91,3 +91,12 @@
 - Compound Assignment With Augmented Subtraction
 - Compound Assignment With Augmented Multiplication
 - Compound Assignment With Augmented Division
+
+### Day 15: 15 January, 2021
+**Today's Progress**: Learned about assignment operators:
+
+- Declare String Variables
+- Escaping Literal Quotes in Strings
+- Quoting Strings with Single Quotes
+- Escape Sequences in Strings
+- Concatenating Strings with Plus Operator
