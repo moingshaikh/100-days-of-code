@@ -86,8 +86,55 @@
 - Compound Assignment With Augmented Addition
  
  ### Day 14: 14 January, 2021
-**Today's Progress**: Learned about assignment operators:
+**Today's Progress**: Learned about:
 
 - Compound Assignment With Augmented Subtraction
 - Compound Assignment With Augmented Multiplication
 - Compound Assignment With Augmented Division
+
+### Day 15: 15 January, 2021
+**Today's Progress**: Learned about:
+
+- Concatenating Strings with the Plus Equals Operator
+- Constructing Strings with Variables
+- Appending Variables to Strings
+- Find the Length of a String
+
+
+### Day 16: 16 January, 2021
+**Today's Progress**: Learned about:
+
+- Use Bracket Notation to Find the First Character in a String
+- Understand String Immutability
+- Use Bracket Notation to Find the Nth Character in a String
+- Use Bracket Notation to Find the Last Character in a String
+- Use Bracket Notation to Find the Nth-to-Last Character in a String
+- Created the mini project: Word Blanks
+
+### Day 17: 17 January, 2021
+**Today's Progress**: Learned about manipulating and handling arrays:
+
+- Store Multiple Values in one Variable using JavaScript Arrays
+- Nest one Array within Another Array
+- Access Array Data with Indexes
+- Modify Array Data With Indexes
+- Access Multi-Dimensional Arrays With Indexes
+
+
+### Day 18: 18 January, 2021
+**Today's Progress**: Learned about:
+
+- Manipulate Arrays With push()
+- Manipulate Arrays With pop()
+- Manipulate Arrays With shift()
+- Manipulate Arrays With unshift()
+
+### Day 19: 19 January, 2021
+**Today's Progress**: Learned about:
+
+- Created the mini project: Shopping List
+- Write Reusable JavaScript with Functions
+- Passing Values to Functions with Arguments
+- Global Scope and Functions
+- Local Scope and Functions
+- Global vs. Local Scope in Functions
