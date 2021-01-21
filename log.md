@@ -142,3 +142,6 @@
 
 ### Day 20: 20 January, 2021
 **Today's Progress**: Learned about Javascript Functions with null value, and returning a value etc. Also learned about Linux commands, file permissions, user access and levels, directory structures, and other basic Linux things.
+
+### Day 21: 21 January, 2021
+**Today's Progress**: In addition to the JS learning, I also started learning about GitHub pages, and undertook a GitHub Labs course: Introduction to GitHub Pages.
