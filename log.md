@@ -155,3 +155,8 @@
 **Today's Progress**: Worked on a demo GitHub Pages project and learnt about pages configuration, theme setup, structure etc. 
 
 - Learned about YAML and found out it's a great, simple language. A must, too.
+
+### Day 24: 24 January, 2021
+**Today's Progress**: Refreshed and re-took introduction to Twitter developer and API fundamentals course content. Went through all the basics of APIs, OAuth, and other technical stuff. 
+
+**Thoughts**: A bit complex and complicated but interesting, too.
