@@ -147,7 +147,11 @@
 **Today's Progress**: In addition to the JS learning, I also started learning about GitHub pages, and undertook a GitHub Labs course: Introduction to GitHub Pages.
 
 ### Day 22: 22 January, 2021
-
 **Today's Progress**:  Apart from routine learnings, also signed up for Google Cloud Labs course by QwickLabs. 
 - Pretty excited to have started learning and hands-on working on GCP. 
 - Started Introduction to Google Cloud Project and Cloud Shell.
+
+### Day 23: 23 January, 2021
+**Today's Progress**: Worked on a demo GitHub Pages project and learnt about pages configuration, theme setup, structure etc. 
+
+- Learned about YAML and found out it's a great, simple language. A must, too.
