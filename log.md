@@ -168,4 +168,4 @@
 **Thoughts**: Continued learning about APIs with a hands-on exoerience by using a few real world APIs including Pokemon API, StarWars APIs, and Lords of The Rings APIs.
 
 ### Day 27: 27 January, 2021
-**Took and completed a 2+ hours long introductory course on APIs by FreeCodeCamp. Really enjoyed the course throughout the duration. If you are a beginner or know someone who wants to learn APIs as a beginner, please check this free, fun-and-learn (APIs for Beginners - How to use an API)[https://www.youtube.com/watch?v=GZvSYJDk-us] - tutorial from FreeCodeCamp. 
+**Took and completed a 2+ hours long introductory course on APIs by FreeCodeCamp. Really enjoyed the course throughout the duration. If you are a beginner or know someone who wants to learn APIs as a beginner, please check this free, fun-and-learn [APIs for Beginners - How to use an API](https://www.youtube.com/watch?v=GZvSYJDk-us) - tutorial from FreeCodeCamp. 
