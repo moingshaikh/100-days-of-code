@@ -160,3 +160,12 @@
 **Today's Progress**: Refreshed and re-took introduction to Twitter developer and API fundamentals course content. Went through all the basics of APIs, OAuth, and other technical stuff. 
 
 **Thoughts**: A bit complex and complicated but interesting, too.
+
+### Day 25: 25 January, 2021
+**Thoughts**: Learned the fundamentals of Postman - APIs related stuff. A walk-through of Postman's key features and about Get and Post requests methds. 
+
+### Day 26: 26 January, 2021
+**Thoughts**: Continued learning about APIs with a hands-on exoerience by using a few real world APIs including Pokemon API, StarWars APIs, and Lords of The Rings APIs.
+
+### Day 27: 27 January, 2021
+**Took and completed a 2+ hours long introductory course on APIs by FreeCodeCamp. Really enjoyed the course throughout the duration. If you are a beginner or know someone who wants to learn APIs as a beginner, please check this free, fun-and-learn tutorial from FreeCodeCamp: https://www.youtube.com/watch?v=GZvSYJDk-us 
