@@ -172,3 +172,15 @@
 
 ### Day 28: 28 January, 2021
 **Today's Progress**: Carried on with learning APIs, Postman hands-on tutorials, and Google Cloud (on Qwiklabs). A bit tiresome yet fun and rewarding excerise! 
+
+### Day 29: 29 January, 2021
+**Today's Progress**: Continued APIs hands-on practice with demo APIs on Postman; also worked on setting up Google Cloud account (Qwiklabs) for hands-on practical labs.
+
+### Day 30: 30 January, 2021
+**Today's Progress**: Exploring GitHub Actions and GitHub workflows with GitHub Labs courses. 
+
+### Day 31: 01 February, 2021
+**Today's Progress**: JavaScript codelabs downloading for practical hands-on sessions. Also enrolled for DigitalOcean's Introduction to Cloud Computing course.
+
+### Day 32: 02 February, 2021
+**Today's Progress**: Continued with DigitalOcean's Introduction to Cloud Computing course.
