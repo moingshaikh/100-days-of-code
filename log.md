@@ -184,3 +184,21 @@
 
 ### Day 32: 02 February, 2021
 **Today's Progress**: Continued with DigitalOcean's Introduction to Cloud Computing course.
+
+### Day 33: 03 February, 2021
+**Today's Progress**: Learned about various Cloud service models, architecture types, and components offerings by leading Cloud solution providers. Also continued practicing JavaScript basics.
+
+### Day 34: 04 February, 2021
+**Today's Progress**: Continued Google Cloud quest on Qwiklabs with hands-on, interactive lab on Cloud fundamentals.
+
+### Day 35: 05 February, 2021
+**Today's Progress**: Took a refreshing course on GitHub markdown language with an interactive GitHub Labs course.
+
+### Day 36: 06 February, 2021
+**Today's Progress**: Explored various API documentations on RapidAPI devdocs. Re-worked on demo Postman APIs.
+
+### Day 37: 07 February, 2021
+**Today's Progress**: Exploring MDN documents on JavaScript classes, types etc. 
+
+### Day 38: 08 February, 2021
+**Today's Progress**: Started learning about Node.JS with an interactive GitHub Learning Labs course.
