@@ -202,3 +202,9 @@
 
 ### Day 38: 08 February, 2021
 **Today's Progress**: Started learning about Node.JS with an interactive GitHub Learning Labs course.
+
+### Day 39: 09 February, 2021
+**Today's Progress**: Hands-on lab excercise for Node.JS course. Learned the fundamentals of NPM and .node server.
+
+### Day 39: 10 February, 2021
+**Today's Progress**: Worked on a demo node.js project. Created a demo node.js server and set it up on localhost.
