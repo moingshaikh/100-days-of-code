@@ -206,9 +206,9 @@
 ### Day 39: 09 February, 2021
 **Today's Progress**: Hands-on lab excercise for Node.JS course. Learned the fundamentals of NPM and .node server.
 
-### Day 39: 10 February, 2021
+### Day 40: 10 February, 2021
 **Today's Progress**: Worked on a demo node.js project. Created a demo node.js server and set it up on localhost.
 
-### Day 40: 11 February, 2021
+### Day 41: 11 February, 2021
 **Today's Progress**: Cotninued working on node.js project. Created GET and POST req/res endpoints and tested it with Postman.
 **Thoughts**: Today's excercise was really rewarding, yielding a real-world like experience with creating API endpoints and testing them with Postman.
