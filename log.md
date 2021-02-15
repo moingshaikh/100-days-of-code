@@ -211,6 +211,7 @@
 
 ### Day 41: 11 February, 2021
 **Today's Progress**: Cotninued working on node.js project. Created GET and POST req/res endpoints and tested it with Postman.
+
 **Thoughts**: Today's excercise was really rewarding, yielding a real-world like experience with creating API endpoints and testing them with Postman.
 
 ### Day 42: 12 February, 2021
