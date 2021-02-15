@@ -212,3 +212,12 @@
 ### Day 41: 11 February, 2021
 **Today's Progress**: Cotninued working on node.js project. Created GET and POST req/res endpoints and tested it with Postman.
 **Thoughts**: Today's excercise was really rewarding, yielding a real-world like experience with creating API endpoints and testing them with Postman.
+
+### Day 42: 12 February, 2021
+**Today's Progress**: Resumed Intro to Google Cloud on KwikLabs with more intense hands-on challenges for advanced Cloud concepts and managing Cloud resources etc.
+
+### Day 43: 13 February, 2021
+**Today's Progress**: Worked on KwikLabs's Kubernets challenge and Cloud Shell in GCP.
+
+### Day 42: 14 February, 2021
+**Today's Progress**: Exploring SMS and WhatsApp Business APIs, tried out Twillio's demo APIs to send out SMS.
