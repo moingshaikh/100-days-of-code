@@ -220,5 +220,8 @@
 ### Day 43: 13 February, 2021
 **Today's Progress**: Worked on KwikLabs's Kubernets challenge and Cloud Shell in GCP.
 
-### Day 42: 14 February, 2021
+### Day 44: 14 February, 2021
 **Today's Progress**: Exploring SMS and WhatsApp Business APIs, tried out Twillio's demo APIs to send out SMS.
+
+### Day 45: 15 February, 2021
+**Today's Progress**: Learning continued for GCP Hands-on labs course. Learned about Virtual Machines concept in Cloud Computing and exploring QwikLabs unit for creating and managing virtual machines (VM Instances) in GCP.
