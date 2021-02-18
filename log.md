@@ -225,3 +225,12 @@
 
 ### Day 45: 15 February, 2021
 **Today's Progress**: Learning continued for GCP Hands-on labs course. Learned about Virtual Machines concept in Cloud Computing and exploring QwikLabs unit for creating and managing virtual machines (VM Instances) in GCP.
+
+### Day 46: 16 February, 2021
+**Today's Progress**: Continued QwikLabs hands-on labs/quests on creating and managing VM Instances in GCP and introduction to Kubernetes.
+
+### Day 47: 17 February, 2021
+**Today's Progress**: Hands-on coding and labs on Compute Engine, Clusters, and Instances in GCP.
+
+### Day 48: 18 February, 2021
+**Today's Progress**: Kubernets hands-on coding lab on GCP.
