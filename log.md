@@ -234,3 +234,6 @@
 
 ### Day 48: 18 February, 2021
 **Today's Progress**: Kubernets hands-on coding lab on GCP.
+
+### Day 49: 19 February, 2021
+**Today's Progress**: Learned fundamentals of Kubernets Engine in GCP. Hands-on labs on creating and managing Clusters and deploying with Docker Containers (contd.).
