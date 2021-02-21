@@ -237,3 +237,9 @@
 
 ### Day 49: 19 February, 2021
 **Today's Progress**: Learned fundamentals of Kubernets Engine in GCP. Hands-on labs on creating and managing Clusters and deploying with Docker Containers (contd.).
+
+### Day 50: 20 February, 2021
+**Today's Progress**: Learned about VM instance, instance group, and other concepts in GCP VM with a practical, hands-on lab on Qwiklabs.
+
+### Day 51: 21 February, 2021
+**Today's Progress**: Explored K8S on GCP with various hands-on labs lessons on Qwiklabs. Created Kubernetes Clusters. Also learned about creating and using Docker Container app and exposing the app on 8080 port on http.
