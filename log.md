@@ -243,3 +243,7 @@
 
 ### Day 51: 21 February, 2021
 **Today's Progress**: Explored K8S on GCP with various hands-on labs lessons on Qwiklabs. Created Kubernetes Clusters. Also learned about creating and using Docker Container app and exposing the app on 8080 port on http.
+
+### Day 52: 22 February, 2021
+
+**Today's Progress**: Exploring Loadbalancer concept in GCP and performing practical tasks such as creating instance groups, target pool, and managed instance group (MIG) in GCP.
