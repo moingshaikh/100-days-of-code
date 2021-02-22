@@ -257,3 +257,5 @@
 - Kubernetes Engine
 - Setting Up Network and HTTP Load Balancers
 - Applying the above learnings and solving the quest challenges.
+
+Can't wait for what's next! =)
