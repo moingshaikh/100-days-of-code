@@ -93,7 +93,6 @@
 - Compound Assignment With Augmented Division
 
 ### Day 15: 15 January, 2021
-<<<<<<< HEAD
 **Today's Progress**: Learned about:
 
 - Concatenating Strings with the Plus Equals Operator
@@ -247,3 +246,14 @@
 ### Day 52: 22 February, 2021
 
 **Today's Progress**: Exploring Loadbalancer concept in GCP and performing practical tasks such as creating instance groups, target pool, and managed instance group (MIG) in GCP.
+
+**Thoughts** It was a great start with Cloud Computing. The learning was challenging but fun, too. Thankful to Google Devs India and Qwiklabs for offering an opportunity to explore and learn about Cloud Computing with real-world set up at no cost. Throughout this course, I got to learn and practice key cloud concepts and perform real-world tasks on crucial Cloud components. My key learnings from this course:
+
+- Introduction and overview of Google Cloud Platform
+- Exploring GCP dashboard and console
+- Virtual Machines in GCP
+- Compute Engine in GCP
+- Using various shell commands in Cloud Shell
+- Kubernetes Engine
+- Setting Up Network and HTTP Load Balancers
+- Applying the above learnings and solving the quest challenges.
