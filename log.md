@@ -259,3 +259,11 @@
 - Applying the above learnings and solving the quest challenges.
 
 Can't wait for what's next! =)
+
+### Day 53: 23 February, 2021
+
+**Today's Progress**: Revisited Postman API tutorials along-with a one-hour hands-on API tutorial.
+
+### Day 54: 24 February, 2021
+
+**Today's Progress**: Learned basics/overivew of Amazon AWS products-range and Cloud terminologies in AWS ecosystem.
