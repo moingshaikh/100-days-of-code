@@ -267,3 +267,7 @@ Can't wait for what's next! =)
 ### Day 54: 24 February, 2021
 
 **Today's Progress**: Learned basics/overivew of Amazon AWS products-range and Cloud terminologies in AWS ecosystem.
+
+### Day 55: 25 February, 2021
+
+**Today's Progress**: Explored Twitter Dev. Docs, account overview, and fundamentals of Twitter APIs
