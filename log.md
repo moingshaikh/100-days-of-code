@@ -271,3 +271,11 @@ Can't wait for what's next! =)
 ### Day 55: 25 February, 2021
 
 **Today's Progress**: Explored Twitter Dev. Docs, account overview, and fundamentals of Twitter APIs
+
+### Day 56: 26 February, 2021
+
+**Today's Progress**: Took quick look into Python programming and started learning with a hands-on course Practical Python Programming.
+
+### Day 57: 27 February, 2021
+
+**Today's Progress**: In addition to the Practical Python Programming course, also took a short, introductory and interactive tutorial on Ruby on the official Ruby website.
