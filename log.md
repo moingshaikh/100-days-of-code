@@ -279,3 +279,7 @@ Can't wait for what's next! =)
 ### Day 57: 27 February, 2021
 
 **Today's Progress**: In addition to the Practical Python Programming course, also took a short, introductory and interactive tutorial on Ruby on the official Ruby website.
+
+### Day 58: 28 February, 2021
+
+**Today's Progress**: Continued interactive course on Ruby with an in-depth and hands-on tutorial on the official Ruby website.
