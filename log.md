@@ -283,3 +283,11 @@ Can't wait for what's next! =)
 ### Day 58: 28 February, 2021
 
 **Today's Progress**: Continued interactive course on Ruby with an in-depth and hands-on tutorial on the official Ruby website.
+
+### Day 59: 01 March, 2021
+
+**Today's Progress**: Started [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) challenge with hands-on learning and excercise. Pretty excited for what's ahead!
+
+### Day 60: 02 March, 2021
+
+**Today's Progress**: Explored Facebook's AI bot lang - wit.ai for building interactive bots based on NLP and NLU fundamentals. 
