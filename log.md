@@ -291,3 +291,7 @@ Can't wait for what's next! =)
 ### Day 60: 02 March, 2021
 
 **Today's Progress**: Explored Facebook's AI bot lang - wit.ai for building interactive bots based on NLP and NLU fundamentals. 
+
+### Day 60: 03 March, 2021
+
+**Today's Progress**: Started an interactive course on Python on Codecademy. Learning syntax of the language and performing some hands-on small demos.
