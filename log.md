@@ -295,3 +295,18 @@ Can't wait for what's next! =)
 ### Day 60: 03 March, 2021
 
 **Today's Progress**: Started an interactive course on Python on Codecademy. Learning syntax of the language and performing some hands-on small demos.
+### Day 61: 04 March, 2021
+
+**Today's Progress**: Learning further concepts and hands-on Python 2.0 excercises on Codecademy, specifically, lessons about variables and different operations such as arithmatic and string operations.
+
+### Day 62: 05 March, 2021
+
+**Today's Progress**: Re-taking the Qwiklabs's Google Cloud challenge to strengthen the concepts around the fundamentals of Google Cloud Platform including Kubernets, Compute Engine, and the Cloud Console (GCP Shell).
+
+### Day 63: 06 March, 2021
+
+**Today's Progress**: Exploring Google Cloud's Dataproc cluster with an in-depth webinar + hands-on interactive demo practice lesson.
+
+### Day 64: 07 March, 2021
+
+**Today's Progress**: Signed up for Microsoft Ignite Challenge with the goal of earning Microsoft Certified: Data Analyst Associate (DA-100) certification. 
