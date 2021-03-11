@@ -315,3 +315,15 @@ Can't wait for what's next! =)
 ### Day 65: 08 March, 2021
 
 **Today's Progress**: Took an indepth learning module on data analytics, data analysis, and data analyst with Microsoft Power BI.
+
+### Day 66: 09 March, 2021
+
+**Today's Progress**: Continued learning various Python programming concepts with Codecademy's Python course. 
+
+### Day 67: 10 March, 2021
+
+**Today's Progress**: Continued learning various Python programming concepts with Codecademy's Python course. 
+
+### Day 68: 11 March, 2021
+
+**Today's Progress**: In addition to continuing with the Python course, also explored Google Cloud Platform's AI Platform product and its offerings.
