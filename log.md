@@ -327,3 +327,7 @@ Can't wait for what's next! =)
 ### Day 68: 11 March, 2021
 
 **Today's Progress**: In addition to continuing with the Python course, also explored Google Cloud Platform's AI Platform product and its offerings.
+
+### Day 69: 12 March, 2021
+
+**Today's Progress**: Tried Google Cloud Platform's BigQuery with GCP as part of the Qwiklabs interactive course on AI/ML Challenge. Topics included: BigQuery in GCP, creating and accessing dataset, Cloud Storange bucket and more.
