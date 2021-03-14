@@ -292,50 +292,38 @@ Can't wait for what's next! =)
 
 **Today's Progress**: Explored Facebook's AI bot lang - wit.ai for building interactive bots based on NLP and NLU fundamentals. 
 
-### Day 60: 03 March, 2021
+Day 61: 03 March, 2021
+**Today's Progress:** Started an interactive course on Python on Codecademy. Learning syntax of the language and performing some hands-on small demos.
 
-**Today's Progress**: Started an interactive course on Python on Codecademy. Learning syntax of the language and performing some hands-on small demos.
-
-### Day 61: 04 March, 2021
-
+Day 62: 04 March, 2021
 **Today's Progress**: Learning further concepts and hands-on Python 2.0 excercises on Codecademy, specifically, lessons about variables and different operations such as arithmatic and string operations.
 
-### Day 62: 05 March, 2021
-
+Day 63: 05 March, 2021
 **Today's Progress**: Re-taking the Qwiklabs's Google Cloud challenge to strengthen the concepts around the fundamentals of Google Cloud Platform including Kubernets, Compute Engine, and the Cloud Console (GCP Shell).
 
-### Day 63: 06 March, 2021
-
+Day 64: 06 March, 2021
 **Today's Progress**: Exploring Google Cloud's Dataproc cluster with an in-depth webinar + hands-on interactive demo practice lesson.
 
-### Day 64: 07 March, 2021
+Day 65: 07 March, 2021
+**Today's Progress**: Signed up for Microsoft Ignite Challenge with the goal of earning Microsoft Certified: Data Analyst Associate (DA-100) certification.
 
-**Today's Progress**: Signed up for Microsoft Ignite Challenge with the goal of earning Microsoft Certified: Data Analyst Associate (DA-100) certification. 
-
-### Day 65: 08 March, 2021
-
+Day 66: 08 March, 2021
 **Today's Progress**: Took an indepth learning module on data analytics, data analysis, and data analyst with Microsoft Power BI.
 
-### Day 66: 09 March, 2021
+Day 67: 09 March, 2021
+**Today's Progress**: Continued learning various Python programming concepts with Codecademy's Python course.
 
-**Today's Progress**: Continued learning various Python programming concepts with Codecademy's Python course. 
+Day 68: 10 March, 2021
+**Today's Progress**: Continued learning various Python programming concepts with Codecademy's Python course.
 
-### Day 67: 10 March, 2021
-
-**Today's Progress**: Continued learning various Python programming concepts with Codecademy's Python course. 
-
-### Day 68: 11 March, 2021
-
+Day 69: 11 March, 2021
 **Today's Progress**: In addition to continuing with the Python course, also explored Google Cloud Platform's AI Platform product and its offerings.
 
-### Day 69: 12 March, 2021
-
+Day 70: 12 March, 2021
 **Today's Progress**: Tried Google Cloud Platform's BigQuery with GCP as part of the Qwiklabs interactive course on AI/ML Challenge. Topics included: BigQuery in GCP, creating and accessing dataset, Cloud Storange bucket and more.
 
-### Day 70: 13 March, 2021
+Day 71: 13 March, 2021
+**Today's Progress**: Did some practice with Google Cloud's BigQuery platform using Qwiklabs's BigQuery - Console lesson. Topics learned: Querying a public dataset, loading custom data into a table, ading custom data, creating Cloud Storage bucket and loading and previwing data into tables.
 
-**Today's Progress**: Did some practice with Google Cloud's BigQuery platform using Qwiklabs's BigQuery - Console lesson. Topics learned: Querying a public dataset, loading custom data into a table, ading custom data, creating Cloud Storage bucket and loading and previwing data into tables. 
-
-### Day 71: 14 March, 2021
-
-**Today's Progress**: Continuing BigQuery and SQL practice with Qwiklab's lesson on Google Cloud + BigQuery SQL services. Topics included: Handling errors in SQL with BigQuery. 
+Day 72: 14 March, 2021
+**Today's Progress**: Continuing BigQuery and SQL practice with Qwiklab's lesson on Google Cloud + BigQuery SQL services. Topics included: Handling errors in SQL with BigQuery.
