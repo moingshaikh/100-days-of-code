@@ -331,3 +331,11 @@ Can't wait for what's next! =)
 ### Day 69: 12 March, 2021
 
 **Today's Progress**: Tried Google Cloud Platform's BigQuery with GCP as part of the Qwiklabs interactive course on AI/ML Challenge. Topics included: BigQuery in GCP, creating and accessing dataset, Cloud Storange bucket and more.
+
+### Day 70: 13 March, 2021
+
+**Today's Progress**: Did some practice with Google Cloud's BigQuery platform using Qwiklabs's BigQuery - Console lesson. Topics learned: Querying a public dataset, loading custom data into a table, ading custom data, creating Cloud Storage bucket and loading and previwing data into tables. 
+
+### Day 71: 14 March, 2021
+
+**Today's Progress**: Continuing BigQuery and SQL practice with Qwiklab's lesson on Google Cloud + BigQuery SQL services. Topics included: Handling errors in SQL with BigQuery. 
