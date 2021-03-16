@@ -324,3 +324,9 @@ Can't wait for what's next! =)
 
 ### Day 72: 14 March, 2021
 **Today's Progress**: Continuing BigQuery and SQL practice with Qwiklab's lesson on Google Cloud + BigQuery SQL services. Topics included: Handling errors in SQL with BigQuery.
+
+### Day 73: 15 March, 2021
+**Today's Progress**: Started an interactive Codecademy tutorial on PHP and its advanced concepts.
+
+### Day 74: 16 March, 2021
+**Today's Progress**: Explored advanced SQL concepts with Codecademy's interactive tutorial.
