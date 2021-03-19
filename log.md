@@ -330,3 +330,10 @@ Can't wait for what's next! =)
 
 ### Day 74: 16 March, 2021
 **Today's Progress**: Explored advanced SQL concepts with Codecademy's interactive tutorial.
+
+### Day 75: 17 March, 2021
+**Today's Progress**: Learned various types of advanced PHP functions and practiced with some hands-on tutorials.
+
+### Day 76: 18 March, 2021
+**Today's Progress**: Coded custom functions examples in PHP.
+
