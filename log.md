@@ -337,3 +337,17 @@ Can't wait for what's next! =)
 ### Day 76: 18 March, 2021
 **Today's Progress**: Coded custom functions examples in PHP.
 
+### Day 77: 19 March, 2021
+**Today's Progress**: Learned about and practiced built-in PHP functions and other related concepts.
+
+### Day 78: 20 March, 2021
+**Today's Progress**: Learned about and practiced Python advanced concepts with a demo Python project.
+
+### Day 79: 21 March, 2021
+**Today's Progress**: Learned about and practiced arrays in PHP. 
+
+### Day 80: 22 March, 2021
+**Today's Progress**: Continued practicing and revisiting custom functions, built-in functions in PHP. 
+
+### Day 81: 23 March, 2021
+**Today's Progress**: Learned about Data Studio with BigQuery in Google Cloud. Also learned about Power BI in Microsoft 365 Cloud platform.
