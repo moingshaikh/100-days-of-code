@@ -351,3 +351,39 @@ Can't wait for what's next! =)
 
 ### Day 81: 23 March, 2021
 **Today's Progress**: Learned about Data Studio with BigQuery in Google Cloud. Also learned about Power BI in Microsoft 365 Cloud platform.
+
+### Day 82: 24 March, 2021
+
+**Today's Progress**: Took a hands-on challenge lab to learn to create reports with Data Studio using Big Query in GCP.
+
+### Day 83: 25 March, 2021
+
+**Today's Progress**: Continued learning about various tools and functionalities with GCP BigQuery such as SQL and Data Studio.
+
+### Day 84: 26 March, 2021
+
+**Today's Progress**: Took a hands-on challenge lab to explore public data sets using BigQuery, SQL, and Data Studio in GCP. Created a mini project to study and analyse Covid cases patterns using Covid-19 public data sets in  GCP using Big Query.
+
+### Day 85: 27 March, 2021
+
+**Today's Progress**: Learned about various concepts, features, and tools in Microsoft Power BI tool. Learned about collecting, cleaning, and optimizing data for analysis in Microsoft Power BI.
+
+### Day 86: 28 March, 2021
+
+**Today's Progress**: Learned about creating reports, using AI visuals, and modelling data in Microsoft Power BI.
+
+### Day 87: 29 March, 2021
+
+**Today's Progress**: Created a demo project using the previously learned objectives in Microsoft Power BI for data collecting, cleansing, and analysis. Created visual reports using varous Power BI tools such as AI visuals and Power BI reports.
+
+### Day 88: 30 March, 2021
+
+**Today's Progress**: Learned about Conditionals and Control Flow in Python. 
+
+### Day 89: 31 March, 2021
+
+**Today's Progress**: Revisited previously explored GCP labs for refreshment.
+
+### Day 90: 01 April, 2021
+
+**Today's Progress**: Started learning about Amazon Web Services with an interactive course by/on Amazon AWS site.
