@@ -387,3 +387,16 @@ Can't wait for what's next! =)
 ### Day 90: 01 April, 2021
 
 **Today's Progress**: Started learning about Amazon Web Services with an interactive course by/on Amazon AWS site.
+
+### Day 90: 02 April, 2021
+
+**Today's Progress**: Learned about various cloud models and services in major cloud solutions including AWS and GCP.
+
+### Day 91: 03 April, 2021
+
+**Today's Progress**: Worked on a hands-on Python project: PygLatin. The project takes an input string from the user and converts it into PygLating language.
+
+### Day 92: 04 April, 2021
+
+**Today's Progress**: Worked on second hands-on Python project: Watson API. Created first Twitter App called Celebrity Match. More on it in coming days.
+
